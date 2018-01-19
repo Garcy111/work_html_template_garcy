@@ -1,2 +1,1 @@
-INSTALL
 yarn install
